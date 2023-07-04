@@ -1,0 +1,2 @@
+run step 1 to set up a new rom eeprom AT24xx
+run step 2 for the main code
